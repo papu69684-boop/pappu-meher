@@ -12,6 +12,7 @@
 ### 🌟 My Current Projects
 - [Weather Dashboard](https://github.com/papu69684-boop/weather-dashboard) - A sleek, glassmorphism weather app.
 - **Home Design Portfolio** - Renders of modern parking and pillar-less gate designs.
+- "Focusing on: AI Agents, Architectural Visualization, and Web Development."
 
 ### 📈 GitHub Stats
 ![Pappu's Stats](https://github-readme-stats.vercel.app/api?username=papu69684-boop&show_icons=true&theme=radical)
