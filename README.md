@@ -16,3 +16,5 @@
 
 ### 📈 GitHub Stats
 ![Pappu's Stats](https://github-readme-stats.vercel.app/api?username=papu69684-boop&show_icons=true&theme=radical)
+
+![Pappu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=papu69684-boop&show_icons=true&theme=radical)
