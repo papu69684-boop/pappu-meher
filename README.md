@@ -17,7 +17,14 @@
 ### 📈 GitHub Stats
 ![Pappu's Stats](https://github-readme-stats.vercel.app/api?username=papu69684-boop&show_icons=true&theme=radical)
 
-🚀 6th Semester Student | AI & Automation Enthusiast
-🛠️ Building Smart Data Pipelines with Python & SQL.
-🧠 Currently developing an Automated Weather AI Brain that trains itself via GitHub Actions.
-🟩 Committed to the "Green Wall" – Daily coding and contributing to the future of AI.
+## ⛈️ Weather AI Prediction System
+This project is an automated AI brain that predicts weather patterns using historical data.
+
+### 🛠️ Tech Stack:
+- **Language:** Python
+- **Database:** MySQL (Weather Logs)
+- **Automation:** GitHub Actions (CI/CD)
+- **Logic:** Predictive Analysis for Weather Alerts
+
+### 🤖 How it Works:
+Every time I push code, GitHub Actions triggers the `mini_brain.py` script, which analyzes humidity levels and outputs a real-time recommendation (e.g., "Bring an Umbrella!").
