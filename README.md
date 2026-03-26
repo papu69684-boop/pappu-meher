@@ -17,3 +17,7 @@
 ### 📈 GitHub Stats
 ![Pappu's Stats](https://github-readme-stats.vercel.app/api?username=papu69684-boop&show_icons=true&theme=radical)
 
+🚀 6th Semester Student | AI & Automation Enthusiast
+🛠️ Building Smart Data Pipelines with Python & SQL.
+🧠 Currently developing an Automated Weather AI Brain that trains itself via GitHub Actions.
+🟩 Committed to the "Green Wall" – Daily coding and contributing to the future of AI.
